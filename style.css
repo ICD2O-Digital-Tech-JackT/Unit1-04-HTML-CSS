@@ -2,3 +2,20 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color: SkyBlue;
+}
+
+h1 {
+  background-color: rgb(170, 239, 248);
+  color: hsl(198, 50%, 21%);
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  background-color: #009dff;
+   text-align:center;
+  padding: 10px;
+}
