@@ -19,3 +19,15 @@ p {
    text-align:center;
   padding: 10px;
 }
+
+th {
+  background-color: #bcd4dc;
+  color: #195b70;
+}
+
+table {
+  background-color: #2bbdee;
+  text-shadow: #050e8f 1px 0 10px;
+  text-align:center;
+  padding: 10px;
+}
